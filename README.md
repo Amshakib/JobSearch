@@ -1,4 +1,25 @@
 <<<<<<< HEAD
+Set up your project and follow these steps:
+Clone the Repository:
+Open your terminal and run:
+
+"git clone https://github.com/username/repository-name.git"
+Navigate to the Project Directory:
+
+"cd repository-name"
+Install Dependencies:
+Make sure you have Node.js and npm installed. Then run:
+
+npm install
+Start the Development Server:
+"npm start"
+
+Another Steps:
+Download the project directory in zip and unzip the folders
+After that open the project folder in vs code and in the ternminal write "npm install" and then "npm start"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
